@@ -25,7 +25,7 @@ dependencies:
   flutter_cache_manager:
     git:
       url: git@github.com:pumpkincrypto/flutter_cache_manager.git
-      ref: 45a980dbbe15e70c53cc05179a662473cc7945fa
+      ref: 88fbf1098cd45a6e57b304f9433be0c0e9480d41
       path: flutter_cache_manager/
   octo_image: ^2.0.0
 
